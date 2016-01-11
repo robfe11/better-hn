@@ -1,0 +1,2 @@
+# better-hn
+Better HN
